@@ -1,0 +1,6 @@
+item_id,figshare_path,description,supports,access
+FS01,meta_variables,"Eight retained built-environment and socioeconomic moderators; harmonized 10-km GeoPackage; raw and standardized Mean/Gini matrices; source layers; field definitions; provenance; correlation, VIF and mapping diagnostics",Spatial moderator construction and collinearity audit,confidential_anonymous_review
+FS02,physical_activity_sample,"Austin analytical example linking a de-identified physical-activity sample to the study grid while retaining the spatial and temporal audit fields",Inspection of origin-to-grid linkage and activity-outcome construction,confidential_anonymous_review
+FS03,heatwave_sample,Austin grid-level temperature inputs used to construct the local heatwave exposure series,Inspection of the Austin activity-to-heatwave linkage,confidential_anonymous_review
+FS04,city_center_coordinates_75cities,75-city coordinate reference table and city-boundary shapefile,Study extent and city-level spatial assignment,confidential_anonymous_review
+FS05,FIGSHARE_ANONYMOUS_REVIEW_DESCRIPTION.md,Description of contents intended use access conditions and review-stage data scope,Interpretation of the confidential review record,confidential_anonymous_review
