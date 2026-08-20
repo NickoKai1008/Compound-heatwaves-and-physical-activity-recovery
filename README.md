@@ -71,7 +71,8 @@ python analysis_code/06_future_projection/code/make_figure6e.py
 python analysis_code/06_future_projection/code/make_figure6f.py
 ```
 
-Each module README identifies the canonical entry point, input tables and expected outputs.
+Each module README identifies the canonical entry point, input tables and expected outputs.  `docs/exhibit_register.csv` is the authoritative panel map.
+
 Extra dataset please see figshare: https://figshare.com/s/2f704478ce1f00db0ac0
 
 ## Data and licensing
