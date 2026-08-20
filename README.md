@@ -73,9 +73,6 @@ python analysis_code/06_future_projection/code/make_figure6f.py
 
 Each module README identifies the canonical entry point, input tables and expected outputs. `docs/exhibit_register.csv` is the authoritative panel map.
 
-## Verification
-
-`docs/release_validation.md` records the release checks. The deposited tables retain the principal study invariants: 75 sampled cities, 63 estimable PPML cities, 756 12-day city-lag estimates, DTW group sizes of 18/14/11/20, three SSPs and annual projections from 2025 through 2050.
 
 ## Data and licensing
 
