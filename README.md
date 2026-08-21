@@ -1,6 +1,6 @@
 # Divergent physical activity losses and recovery trajectories after compound heatwaves
 
-This anonymous review package links the analysis code, compact source tables and submitted figures for a study of 15.63 million outdoor physical-activity records from 75 US cities during 2010-2024. Post-event PPML estimates cover 63 cities with observed compound heatwaves, yielding 756 city-lag estimates over days 1-12. Future projections span 2025-2050 under SSP2-4.5, SSP3-7.0 and SSP5-8.5.
+This anonymous review package links the analysis code, compact source tables and submitted figures for a study of 15.63 million outdoor physical-activity records from 75 US cities during 2010-2024. The analytical workflow combines city-specific Poisson pseudo-maximum-likelihood (PPML) models of post-event activity trajectories, DTW-based recovery phenotypes, city-specific distributed lag non-linear models (DLNMs), multivariate random-effects pooling of exposure-response functions and built-environment meta-regression. Post-event PPML estimates cover 63 cities with observed compound heatwaves over days 1-12. Historical response functions are subsequently combined with CMIP6 exposure projections to estimate heatwave-attributable physical-activity loss during 2025-2050 under SSP2-4.5, SSP3-7.0 and SSP5-8.5.
 
 ## Repository scope
 
